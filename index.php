@@ -1,3 +1,5 @@
-<?php
-  echo '<html><body><h1>Hellooooo</h1></body> </html>'
-?>
+<html>
+  <body>
+    <h1>Hello Sophia!</h1>
+  </body>
+</html>
